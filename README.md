@@ -1,4 +1,3 @@
-# demo
 ---
 Repo for testing
 
